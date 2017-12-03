@@ -45,9 +45,11 @@ if(form.userid.value == "Roseindia" && form.pwd.value == "Roseindia")
 else
 {
 	alert("Error Password or Username=========>")
+	alert("Error Password or Username-->")
 	return false;
 }
 }
 </script>
+
 </body>
 </html>
