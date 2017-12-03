@@ -44,7 +44,7 @@ if(form.userid.value == "Roseindia" && form.pwd.value == "Roseindia")
 }
 else
 {
-	alert("Error Password or Username=========hellooo>")
+	alert("Error New Password....38458602485820450t8 or New Username....>")
 	return false;
 }
 }
